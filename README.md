@@ -5,21 +5,24 @@
 
 * When was the company incorporated? 2013
 
-Who are the founders of the company? 
-   hedge fund veterans Tammer Kamel and Abraham Thomas
+* Who are the founders of the company? 
+hedge fund veterans Tammer Kamel and Abraham Thomas
 
-How did the idea for the company (or project) come about?    Tammer Kamel, CEO of Quandl, mentioned “We are on a mission to democratize the commercial data industry”. Quandl’s co-founder and chief data officer Abraham Thomas provided more details on the idea of setting up the company. “The current generation of data analysts is no longer satisfied with one-size-fits-all technology and draconian restrictions on use; they want the freedom to work on the data they need with the tools they choose. We make that happen.”
+* How did the idea for the company (or project) come about?    
+Tammer Kamel, CEO of Quandl, mentioned “We are on a mission to democratize the commercial data industry”. Quandl’s co-founder and chief data officer Abraham Thomas provided more details on the idea of setting up the company. “The current generation of data analysts is no longer satisfied with one-size-fits-all technology and draconian restrictions on use; they want the freedom to work on the data they need with the tools they choose. We make that happen.”
+In recent two years, after acquired by Nasdaq, quandl shifted their business foucus to providing alternative data.
 
 * How is the company funded? How much funding have they received?
-Quandl as startups in 2013, gained seed funding $1.5M from iGan Partners. And the following year, GrowX Venture Management invested the new company. In 2014, Quandl gained $5.4M Series A funding from August Capital. Two years later, the business was continue expanding and get another $12M series B funding from Nexus Venture Partners and August Capital. Nasdaq acquired Quandl in 2018.
-## Business Activities:
+Quandl, as startups in 2013, gained seed funding $1.5M from iGan Partners. And the following year, GrowX Venture Management invested the new company. In 2014, Quandl gained $5.4M Series A funding from August Capital. Two years later, the business was continue expanding and get another $12M series B funding from Nexus Venture Partners and August Capital. Nasdaq acquired Quandl in 2018.
 
+
+## Business Activities:
 * What specific financial problem is the company or project trying to solve?
-Quandl’s main business is to provide alternative data. Alternative data is collected digitally, while traditionally data is collected through surveys asking people what they’re purchasing etc. By going digital we keep that same level of anonymity but make it faster and more accurate. So, for example with PSD2 and user consent, we can see where spending is taking place in real-time, instead of having to wait for surveys to be carried out and analysed.There’s nothing radical about alternative data. It’s just a faster, more accurate way of collecting market research.
-Financial analysis under pandemic in the past 2 years is a good example of Quandl to provide expertise data to monitor and forecast. Quandl offers data from supply chain, small business performance, employment, consumption, credit to keep users informed of any potential risks. 
+Quandl’s main business in recent years is to provide alternative data. Alternative data is collected digitally, while traditionally, data is collected through surveys asking people what they’re purchasing etc. By going digital we keep that same level of anonymity but make it faster and more accurate. So, for example with PSD2 and user consent, we can see where spending is taking place in real-time, instead of having to wait for surveys to be carried out and analysed.There’s nothing radical about alternative data. It’s just a faster, more accurate way of collecting market research.
+Financial analysis under pandemic in the past 2 years is a good example of Quandl to provide numeric data for monitoring and forecasting purpose. Quandl offers data from supply chain, small business performance, employment, consumption, credit to keep users informed of any potential risks. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-Quandl provides data to a wide range of users, including 8 of the 10 largest hedge fund companies, 14 of the 15 largest banks and 8 of the 10 largest consulting firms in the United States. Quandl also serve data with individuals. Quandl collects over 500 publishers’ market data. Users could subscribe datasets through API, R,Python, excel, Ruby and more.  
+Quandl provides data to a wide range of users, including 8 of the 10 largest hedge fund companies, 14 of the 15 largest banks and 8 of the 10 largest consulting firms in the United States. Quandl also serve data with individuals.It collects from over 500 publishers’ market data. Users could subscribe datasets through API, R,Python, excel, Ruby and more.  
 
 * What solution does this company offer that their competitors do not or cannot offer? 
 Quandl's top competitors include Enigma Technologies, Estimize, OpenFin, TIM Group and Thinknum. The mission of Quandl is to extract value from  the world’s data. The company is focusing on providing a search engine for wider numerical data. Here to summarize the main difference by comparing what offers by Quandl’s competitors. 
@@ -31,8 +34,8 @@ Quandl is easy to use no matter for individuals, large institutions or companies
 * Which technologies are they currently using, and how are they implementing them? 
 The main business of Quandl is offering alternative data, which is collected digitally. Quandl builds services on the cloud and putting data there. And AI-based data analysis is another highlight on the technology side. They are at the forefront of big data and Artificial Intelligence  as a startups.  Except the cloud usage, Quandl mainly use JavaScript, Python, C#, R as the main coding language and the company attracts technology experts as Well as financial analysts.
 
-## Landscape:
 
+## Landscape:
 * What domain of the financial industry is the company in?
 Quandl is a finch big data startups, for financial, economic and alternative data delivered in modern formats for today's analysts, including Python, Excel, Matlab, R etc. I would classify Quandl as digital trading domain. Algo trading is the big fan of Quandl as it serves big data.
 
@@ -43,9 +46,7 @@ Cloud usage and big data is the main trends for Quandl. Quandl serves large trun
 From the market data and trading perspective, main companies includes Enigma Technologies, Estimize, OpenFin, TIM Group and Thinknum. Reuters and Bloombergs also servers the main core financial data. 
 
 
-
 ## Results
-
 * What has been the business impact of this company so far?
 From user perspective, Quandl has a wide range of users, including 8 of the 10 largest hedge fund companies, 14 of the 15 largest banks and 8 of the 10 largest consulting firms in the United States. From data publisher perspective, there are over 500 publishers contribute the data to Quandl. The data sharing and analysis is a trend under regulatory. Quandl is one of the pioneers to provide numeric data for market analysis.  
 
@@ -74,38 +75,37 @@ Due to different business focus, the customers would be different and not compar
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer?
-Quandl is probably could look to ingrate with other big data companies to provide more valuable and comprehensive data to the customers. This would make customers not to worry to find data sources and having Quandl as the only trusted data source. For example, Quandl is lack of realtime or delayed stock price data. If Quandl could cooperate with other companies, like Reuters, bloomberg, Nasdaq to integrate stock prices. Customers could only build API with Quandl and fetching data from one platform. Of course, such way could increase the maintenance debt for Quandl. Quandl needs to improve on the data quality support at the same time, so to provide qualified services with more data enabled. 
+Quandl probably could look to ingrate with other big data companies to provide more valuable and comprehensive data to the customers. This would make customers not to worry to find data sources and having Quandl as the only trusted data source. For example, Quandl is lack of realtime or delayed stock price data. If Quandl could cooperate with other companies, like Reuters, bloomberg, Nasdaq to integrate stock prices. Customers could only build API with Quandl and fetching data from one platform. Of course, such way could increase the maintenance debt for Quandl. Quandl needs to improve on the data quality support at the same time, so to provide qualified services with more data enabled. 
 
 
 * Why do you think that offering this product or service would benefit the company?
-Single source of data I believe is what customers want. Building APIs for different source of data is creating complications for the data consumer companies. Integration of different market data sources could attracts more customers and widen the business areas. 
+Single source of data I believe is what customers want. Building APIs for different source of data is creating complications for the data consumer companies. Integration of different market data sources could attracts more customers and widen the business areas. This could be part of Quandl's business expension. 
 
 * What technologies would this additional product or service utilize?
-Big data and cloud usage is the key concept here. More data means more capacity for cloud usage. This is also a challenge for Quandl in order to achieve it. 
+Big data and cloud usage is the key concept here. More data means more capacity for cloud usage. If putting realtime data services on, the availability and speed of the data transferring during the day would be a point to explore futhrer. How to make the program effcient on the architecture level will have to be discussed. This is also a challenge for Quandl in order to achieve it. 
 
 
 * Why are these technologies appropriate for your solution?
-Data storage is the key element for market data company. As a fast developing area, big data and cloud usage is the ultimate ideal solution here. 
-
+Data storage is the key element for market data company. As a fast developing area, big data, cloud and artifical intelligence is the ultimate ideal solution here. 
 
 
 ## References
-1 https://www.quandl.com/press/quandl-series-a-marketplace
-2 https://tracxn.com/d/companies/quandl.com
-3 https://www.quandl.com/about
-4 https://thefintechtimes.com/what-is-alternative-data-quandls-hamza-khan-explains/
-5 https://www.businesswire.com/news/home/20160912005787/en/Alternative-Data-Platform-Quandl-Raises-12-Million-in-Series-B-Funding
-6 https://www.quandl.com/publishers
-7 https://www.quandl.com/tools/full-list
-8 https://craft.co/quandl/competitors
-9 https://craft.co/enigma-technologies
-10 https://craft.co/openfin
-11 https://craft.co/tim-group
-12 https://craft.co/thinknum
-13 https://algotrading101.com/learn/quandl-guide/
-14 https://thefintechtimes.com/what-is-alternative-data-quandls-hamza-khan-explains/
-15 https://stackshare.io/quandl/quandl
-16 https://www.owler.com/company/quandl#overview
-17 https://algotrading101.com/learn/quandl-guide/
-18 https://craft.co/enigma-technologies
-19 https://craft.co/openfin
+* https://www.quandl.com/press/quandl-series-a-marketplace
+* https://tracxn.com/d/companies/quandl.com
+*  https://www.quandl.com/about
+*  https://thefintechtimes.com/what-is-alternative-data-quandls-hamza-khan-explains/
+*  https://www.businesswire.com/news/home/20160912005787/en/Alternative-Data-Platform-Quandl-Raises-12-Million-in-Series-B-Funding
+*  https://www.quandl.com/publishers
+*  https://www.quandl.com/tools/full-list
+*  https://craft.co/quandl/competitors
+*  https://craft.co/enigma-technologies
+*  https://craft.co/openfin
+*  https://craft.co/tim-group
+*  https://craft.co/thinknum
+*  https://algotrading101.com/learn/quandl-guide/
+*  https://thefintechtimes.com/what-is-alternative-data-quandls-hamza-khan-explains/
+*  https://stackshare.io/quandl/quandl
+*  https://www.owler.com/company/quandl#overview
+*  https://algotrading101.com/learn/quandl-guide/
+*  https://craft.co/enigma-technologies
+*  https://craft.co/openfin
