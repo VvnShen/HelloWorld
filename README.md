@@ -89,7 +89,7 @@ Data storage is the key element for market data company. As a fast developing ar
 
 
 
-References: 
+## References
 1 https://www.quandl.com/press/quandl-series-a-marketplace
 2 https://tracxn.com/d/companies/quandl.com
 3 https://www.quandl.com/about
